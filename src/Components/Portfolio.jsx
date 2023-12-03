@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/design-desk.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Smart Parking System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed RaraspberryPi based project which gives real time parking space availability on mobile application and web application using Python and MongoDB.",
+    url: "https://github.com/kstij/smart-parking//",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Facial Landmark Detection",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Facial landmark recognition allows you to detect a number of different points on your face that together make up your eyes, mouth, ears, nose and so on.",
+    url: "https://github.com/kstij/face-landmark-detection",
   },
   {
-    title: "My Resume Site",
+    title: "Portfolio website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created Personalized Portfolio website using Next.js and gatsby and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://kshitijvarma.me",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Disney+Clone",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Built Disney+ Clone with React JS with Google account's Sign in feature. Styled to get 15+ movies made by Disney; clickable images to get details of the specific movie.",
+    url: "https://github.com/kstij/Disney-Hotstar-Clone/",
   },
 ];
 

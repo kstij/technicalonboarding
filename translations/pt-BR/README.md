@@ -134,7 +134,7 @@ Vá para os seguintes componentes para atualizar a linha `import image...` para 
 
 * `/src/Components/Portfolio.jsx` - Imagem destacada no lado esquerdo da seção (foto de mesa de design no exemplo)
    ```javascript
-      import image from "../images/design-desk.jpeg";
+      import image from "../images/design-desk.jpg";
       const imageAltText = "desktop with books and laptop";
    ```
 

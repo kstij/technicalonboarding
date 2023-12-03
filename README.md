@@ -135,7 +135,7 @@ Go to the following below components to update the `import image...` line to ref
    ```
 * `/src/Components/Portfolio.jsx`- image highlighted in left hand side of section (design desk photo in sample)
    ```javascript
-      import image from "../images/design-desk.jpeg";
+      import image from "../images/design-desk.jpg";
       const imageAltText = "desktop with books and laptop";
    ```
 

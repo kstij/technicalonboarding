@@ -131,7 +131,7 @@ Ve a los siguientes componentes para actualizar la línea `import image...` haci
    ```
 * `Portfolio.jsx`- Imagen resaltada en el lado izquierdo de la sección (foto de escritorio de diseño en muestra)
    ```javascript
-      import image from "../images/design-desk.jpeg";
+      import image from "../images/design-desk.jpg";
    ```
 
 ### 3️⃣ Agrega proyectos en los que has trabajado
