@@ -28,11 +28,11 @@ const siteProps = {
   title: "Cyber Security & Data Science ",
   email: "kshitijvarma21@gmail.com",
   gitHub: "https://github.com/kstij",
-  instagram: "https://www.instagram.com/kshitij_r_varma/",
-  linkedIn: "https://www.linkedin.com/in/kshitijvarma21/",
+  instagram: "kshitij_r_varma/",
+  linkedIn: "kshitijvarma21/",
   medium: "",
-  twitter: "https://twitter.com/kstij21",
-  youTube: "Code",
+  twitter: "kstij21",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
